@@ -18,6 +18,8 @@ I am an open and mature person, team player, fast-learner.
 - Figma
 - Mantis
 - TestLink
+- Scrum
+- Agile 
 - GTD
 
 ### Experience
